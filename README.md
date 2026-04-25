@@ -1,7 +1,7 @@
 # Python-Project-On-Corporate-Data-Analyzer
 📊 Corporate Data Analyzer (Report + Chart + Export)
 
-A Python-based desktop application built using Tkinter, Pandas, and Plotly that allows users to analyze corporate datasets, generate reports, visualize insights, and export results بسهولة.
+A Python-based desktop application built using Tkinter, Pandas, Matplotlib, Seaborn and Plotly that allows users to analyze corporate datasets, generate reports, visualize insights, and export results .
 
 🚀 Features
 
